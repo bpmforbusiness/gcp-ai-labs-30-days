@@ -26,7 +26,7 @@
 ### [0:00] HOOK
 *(Screen: title card "DAY 1/30 — RAG AGENT" over footage of the deployed chatbot answering)*
 
-"Your AI chatbot just recommended a drink that doesn't exist. ☕ That's hallucination — and today, I'm going to show you how to stop it. I'm building 30 AI labs on Google Cloud in 30 days, and this is Day 1: a coffee barista AI that can ONLY recommend what's actually on the menu."
+"Your AI chatbot just recommended a response  that doesn't exist. ☕ That's hallucination — and today, I'm going to show you how to stop it. I'm building 30 AI labs on Google Cloud in 30 days, and this is Day 1: a coffee shop barista AI that can ONLY recommend what's actually on the menu."
 
 *(Cut to you, speaking to camera)*
 

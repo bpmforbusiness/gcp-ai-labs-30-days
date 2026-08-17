@@ -17,6 +17,12 @@ In this lab, you will build an interactive AI Barista agent for a coffee shop. U
 *   Deploy the Streamlit app to Cloud Run using source-based deployment.
 *   Test RAG grounding and allergen awareness.
 
+### Architecture
+
+![RAG Barista Agent Architecture](screenshots/architecture.png)
+
+*Architecture: the Streamlit UI talks to the ADK agent (Gemini 3.5 Flash), which calls the `get_menu()` tool to retrieve grounded menu data before answering.*
+
 ---
 
 ## 2. Before you begin

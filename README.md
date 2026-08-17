@@ -76,6 +76,4 @@ gcp-ai-labs-30-days/
 
 🔗 [Linktree](https://linktr.ee/bpmforbusiness) · [LinkedIn](https://www.linkedin.com/in/talk2aq) · [YouTube](https://youtube.com/@TechWorldWithAbdul) · [BPM for Business](https://bpmforbusiness.com)
 
----
 
-*All labs from [Google Codelabs](https://codelabs.developers.google.com/) — performed, extended, and documented with permission.*

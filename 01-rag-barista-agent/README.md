@@ -5,6 +5,8 @@
 **Written by:** Smitha Kolan, Balaji Subramaniam, Tianzi Cai · **Updated:** Aug 12, 2026
 **Date:** 2026-08-16 · **Status:** 🚧 In Progress
 
+> 📘 **📖 FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (menu.json, agent.py, app.py, deploy commands, Firestore upgrade, cleanup). Use it while doing this lab — every command and code block is copy-paste ready.
+
 ## 🧠 The AI Concept: RAG (Retrieval-Augmented Generation)
 
 A coffee shop AI Barista that recommends menu items — without hallucinating drinks that don't exist.

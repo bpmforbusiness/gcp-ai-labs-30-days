@@ -2,7 +2,9 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** Cloud Run, MCP (Model Context Protocol)
 **Codelab:** [How to deploy a secure MCP server on Cloud Run](https://codelabs.developers.google.com/codelabs/cloud-run/how-to-deploy-a-secure-mcp-server-on-cloud-run)
-**Date:** 2026-08-18 · **Status:** 🚧 In Progress
+**Date:** 2026-08-18 · **Status:** ✅ Complete
+
+> 🎬 **Watch the video:** [Day 2 — MCP Explained: Build & Secure an MCP Server on Cloud Run](https://youtu.be/yJdxsJhgMlE)
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (FastMCP zoo server, Dockerfile, Cloud Run deploy, Antigravity CLI connection, debugging). Use it while doing this lab — every command is copy-paste ready.
 

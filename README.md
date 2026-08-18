@@ -29,7 +29,7 @@
 | Day | Lab | GCP Product | Status | Video |
 |---|---|---|---|---|
 | 1 | RAG AI Barista Agent (Streamlit + ADK + Cloud Run) | ADK, Cloud Run, Gemini | ✅ | [▶️](https://youtu.be/80Y3rVjngwY) |
-| 2 | Deploy a secure MCP server on Cloud Run | MCP, Cloud Run | 🚧 | |
+| 2 | Deploy a secure MCP server on Cloud Run | MCP, Cloud Run | ✅ | [▶️](https://youtu.be/yJdxsJhgMlE) |
 | 3 | Build & Deploy AI Agents (Gemini + BigQuery MCP) | ADK, BigQuery, Cloud Run | ⬜ | |
 | 4 | Quick guide to Gemini CLI | Gemini CLI | ⬜ | |
 | 5 | Build a Google Trends Analyst Agent | BigQuery MCP | ⬜ | |

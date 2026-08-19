@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 | 1 | RAG AI Barista Agent (Streamlit + ADK + Cloud Run) | ADK, Cloud Run, Gemini | ✅ | [▶️](https://youtu.be/80Y3rVjngwY) |
 | 2 | Deploy a secure MCP server on Cloud Run | MCP, Cloud Run | ✅ | [▶️](https://youtu.be/yJdxsJhgMlE) |
-| 3 | Build a Portfolio with Google AI Studio (vibe coding + one-click deploy) | AI Studio, Cloud Run | 🚧 | |
+| 3 | Build a Portfolio with Google AI Studio (vibe coding + one-click deploy) | AI Studio, Cloud Run | ✅ | [▶️](https://youtu.be/urCrj0jkgZQ) |
 | 4 | Quick guide to Gemini CLI | Gemini CLI | ⬜ | |
 | 5 | Build a Google Trends Analyst Agent | BigQuery MCP | ⬜ | |
 | 6 | Building AI Agents with ADK: The Foundation | ADK | ⬜ | |

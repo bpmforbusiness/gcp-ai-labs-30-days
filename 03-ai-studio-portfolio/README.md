@@ -2,7 +2,9 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** Google AI Studio (Build Mode), Cloud Run
 **Codelab:** [Building a Personal Portfolio with Google AI Studio](https://codelabs.developers.google.com/codelabs/cloud-run/build-portfolio-google-ai-studio)
-**Date:** 2026-08-19 · **Status:** 🚧 In Progress
+**Date:** 2026-08-19 · **Status:** ✅ Complete
+
+> 🎬 **Watch the video:** [Day 3 — AI Built My Portfolio: One-Click Deploy to Google Cloud](https://youtu.be/urCrj0jkgZQ)
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (AI Studio prompt, preview testing, one-click Cloud Run deploy, custom domain). Use it while doing this lab — every step is copy-paste ready.
 

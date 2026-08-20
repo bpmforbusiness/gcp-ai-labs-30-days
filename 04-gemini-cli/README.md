@@ -2,9 +2,11 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** Gemini CLI
 **Codelab:** [Hands-on Lab: Gemini CLI](https://codelabs.developers.google.com/codelabs/cloud-run/gemini-cli)
-**Date:** 2026-08-20 · **Status:** 🚧 In Progress
+**Date:** 2026-08-20 · **Status:** ✅ Complete
 
-> 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (install, auth, prompts, tools, Tic-Tac-Toe build, extensions). Use it while doing this lab — every command is copy-paste ready.
+> 🎬 **Watch the video:** [Day 4 — Gemini CLI: Your AI Partner in the Terminal](https://youtu.be/aeAcWM2yOhE)
+
+> 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (install, 3 auth methods, prompts, tools, Tic-Tac-Toe build, extensions). Use it while doing this lab — every command is copy-paste ready.
 
 ## 🧠 The AI Concept: The AI Coding Copilot, Right in Your Terminal
 

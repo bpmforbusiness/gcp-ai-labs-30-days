@@ -32,7 +32,7 @@
 | 2 | Deploy a secure MCP server on Cloud Run | MCP, Cloud Run | ✅ | [▶️](https://youtu.be/yJdxsJhgMlE) |
 | 3 | Build a Portfolio with Google AI Studio (vibe coding + one-click deploy) | AI Studio, Cloud Run | ✅ | [▶️](https://youtu.be/urCrj0jkgZQ) |
 | 4 | Quick guide to Gemini CLI | Gemini CLI | ✅ | [▶️](https://youtu.be/aeAcWM2yOhE) |
-| 5 | Build a Google Trends Analyst Agent | BigQuery MCP, ADK, Cloud Run | 🚧 | |
+| 5 | Build a Google Trends Analyst Agent | BigQuery MCP, ADK, Cloud Run | ✅ | [▶️](https://youtu.be/LY5Vd13seAM) |
 | 6 | Building AI Agents with ADK: The Foundation | ADK | ⬜ | |
 | 7 | Build Multi-Agent Systems with ADK | ADK | ⬜ | |
 | 8 | Getting Started with A2A Protocol | A2A, ADK | ⬜ | |

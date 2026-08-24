@@ -2,7 +2,9 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** ADK, BigQuery MCP, Cloud Run
 **Codelab:** [Build a Google Trends Analyst Agent with BigQuery MCP](https://codelabs.developers.google.com/codelabs/cloud-run/build-google-trends-analyst-agent-with-bigquery-mcp)
-**Date:** 2026-08-21 · **Status:** 🚧 In Progress
+**Date:** 2026-08-24 · **Status:** ✅ Complete
+
+> 🎬 **Watch the video:** [Day 5 — AI Agent That Queries BigQuery: Google Trends Analyst](https://youtu.be/LY5Vd13seAM)
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (ADK setup, BigQuery MCP enablement, agent code, local run, Cloud Run deploy). Use it while doing this lab — every command is copy-paste ready.
 

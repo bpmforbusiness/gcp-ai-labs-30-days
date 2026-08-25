@@ -2,7 +2,9 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** Google ADK, Gemini
 **Codelab:** [Building AI Agents with ADK: A Comprehensive Guide](https://codelabs.developers.google.com/codelabs/cloud-run/building-ai-agents-with-adk) · Short URL: `goo.gle/adk-foundation`
-**Date:** 2026-08-25 · **Status:** 🚧 In Progress
+**Date:** 2026-08-25 · **Status:** ✅ Complete
+
+> 🎬 **Watch the video:** [Day 6 — Build a Personal AI Agent on Google Cloud using ADK](https://youtu.be/IgDD7pkJ-c0)
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (env setup with `uv`, `adk create`, agent code, terminal + web UI run, troubleshooting). Use it while doing this lab — every command is copy-paste ready.
 

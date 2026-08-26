@@ -2,7 +2,9 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** Google ADK, Gemini
 **Codelab:** [Build Multi-Agent Systems with ADK](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/3-developing-agents/build-a-multi-agent-system-with-adk)
-**Date:** 2026-08-26 · **Status:** 🚧 In Progress
+**Date:** 2026-08-26 · **Status:** ✅ Complete
+
+> 🎬 **Watch the video:** [Day 7 — A TEAM of AI Agents: Multi-Agent Systems (ADK)](https://youtu.be/E2cXqdRM9mM)
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (agent hierarchy, session state, SequentialAgent, LoopAgent, ParallelAgent, full code). Use it while doing this lab — every command and code block is copy-paste ready.
 

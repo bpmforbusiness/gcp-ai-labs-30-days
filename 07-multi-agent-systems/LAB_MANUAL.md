@@ -4,7 +4,6 @@
 
 **Prepared by:** Abdul Qaadir (@TechWorldWithAbdul)
 **Series:** 30 Labs, 30 Days — Day 7 · **Last Updated:** August 2026
-**Original codelab:** [Build Multi-Agent Systems with ADK](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/3-developing-agents/build-a-multi-agent-system-with-adk)
 
 ---
 

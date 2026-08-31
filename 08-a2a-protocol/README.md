@@ -2,7 +2,9 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** A2A Protocol, ADK, Cloud Run, Agent Engine
 **Codelab:** [Getting Started with Agent2Agent (A2A) Protocol: A Purchasing Concierge](https://codelabs.developers.google.com/intro-a2a-purchasing-concierge)
-**Date:** 2026-08-29 · **Status:** 🚧 In Progress
+**Date:** 2026-08-31 · **Status:** ✅ Complete
+
+> 🎬 **Watch the video:** [Day 8 — A2A Explained: Agents from DIFFERENT Frameworks Working Together](https://youtu.be/qSKm3NnFX8Q)
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (A2A server/client structure, Agent Cards, Cloud Run + Agent Engine deploy, full source explanations). Use it while doing this lab — every command and code block is copy-paste ready.
 

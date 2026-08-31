@@ -35,7 +35,7 @@
 | 5 | Build a Google Trends Analyst Agent | BigQuery MCP, ADK, Cloud Run | ✅ | [▶️](https://youtu.be/LY5Vd13seAM) |
 | 6 | Building AI Agents with ADK: The Foundation | ADK | ✅ | [▶️](https://youtu.be/IgDD7pkJ-c0) |
 | 7 | Build Multi-Agent Systems with ADK | ADK | ✅ | [▶️](https://youtu.be/E2cXqdRM9mM) |
-| 8 | Getting Started with A2A Protocol | A2A, ADK | ⬜ | |
+| 8 | Getting Started with A2A Protocol | A2A, ADK | 🚧 | |
 | 9 | Vector Embeddings with AlloyDB AI | AlloyDB AI | ⬜ | |
 | 10 | Visualize AI Assistant Memory (pgvector) | Cloud SQL, Gemini | ⬜ | |
 | 11 | Build, Secure & Deploy an MCP Server | MCP, GCP | ⬜ | |

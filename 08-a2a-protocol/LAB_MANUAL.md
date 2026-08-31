@@ -4,7 +4,7 @@
 
 **Prepared by:** Abdul Qaadir (@TechWorldWithAbdul)
 **Series:** 30 Labs, 30 Days — Day 8 · **Last Updated:** August 2026
-**Original codelab:** [Getting Started with Agent2Agent (A2A) Protocol: A Purchasing Concierge and Remote Seller Agent Interactions on Cloud Run and Agent Engine](https://codelabs.developers.google.com/intro-a2a-purchasing-concierge)
+
 
 ---
 

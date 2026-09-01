@@ -36,7 +36,7 @@
 | 6 | Building AI Agents with ADK: The Foundation | ADK | ✅ | [▶️](https://youtu.be/IgDD7pkJ-c0) |
 | 7 | Build Multi-Agent Systems with ADK | ADK | ✅ | [▶️](https://youtu.be/E2cXqdRM9mM) |
 | 8 | Getting Started with A2A Protocol | A2A, ADK | ✅ | [▶️](https://youtu.be/qSKm3NnFX8Q) |
-| 9 | Vector Embeddings with AlloyDB AI | AlloyDB AI | 🚧 | |
+| 9 | Vector Embeddings with AlloyDB AI | AlloyDB AI | ✅ | [▶️](https://youtu.be/E90byJEyVLs) |
 | 10 | Visualize AI Assistant Memory (pgvector) | Cloud SQL, Gemini | ⬜ | |
 | 11 | Build, Secure & Deploy an MCP Server | MCP, GCP | ⬜ | |
 | 12 | Evaluate RAG Systems with Vertex AI | Vertex AI | ⬜ | |

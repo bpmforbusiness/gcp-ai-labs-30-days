@@ -2,9 +2,11 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** AlloyDB, Vertex AI (Gemini embeddings)
 **Codelab:** [Getting started with Vector Embeddings with AlloyDB AI](https://codelabs.developers.google.com/alloydb-ai-embedding)
-**Date:** 2026-08-31 · **Status:** 🚧 In Progress
+**Date:** 2026-09-01 · **Status:** ✅ Complete
 
-> 🎬 **Thumbnail:** `screenshots/day9_thumbnail.png` (1280×720, placed for broadcast when video goes live)
+> 🎬 **Watch the video:** [Day 9 — Vector Embeddings + AlloyDB AI: RAG Memory for Agents](https://youtu.be/E90byJEyVLs)
+
+> 🎬 **Thumbnail:** `screenshots/day9_thumbnail.png`
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (AlloyDB cluster deploy, GCE VM + psql, embeddings, similarity search, LLM enrichment, ScaNN index). Use it while doing this lab — every command is copy-paste ready.
 

@@ -4,6 +4,8 @@
 **Codelab:** [Getting started with Vector Embeddings with AlloyDB AI](https://codelabs.developers.google.com/alloydb-ai-embedding)
 **Date:** 2026-08-31 · **Status:** 🚧 In Progress
 
+> 🎬 **Thumbnail:** `screenshots/day9_thumbnail.png` (1280×720, placed for broadcast when video goes live)
+
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (AlloyDB cluster deploy, GCE VM + psql, embeddings, similarity search, LLM enrichment, ScaNN index). Use it while doing this lab — every command is copy-paste ready.
 
 ## 🧠 The AI Concept: Embeddings + Vector Search = RAG Memory

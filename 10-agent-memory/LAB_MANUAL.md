@@ -4,8 +4,6 @@
 
 **Prepared by:** Abdul Qaadir (@TechWorldWithAbdul)
 **Series:** 30 Labs, 30 Days — Day 10 · **Last Updated:** September 2026
-**Original codelab:** [Visualize your AI assistant memory with Gemini and Cloud SQL pgvector](https://codelabs.developers.google.com/next26/postgres-visual-memory-agent)
-**Author:** Billy Jacobson
 
 ---
 

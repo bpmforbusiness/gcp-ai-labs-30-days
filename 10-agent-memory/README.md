@@ -4,6 +4,8 @@
 **Codelab:** [Visualize your AI assistant memory with Gemini and Cloud SQL pgvector](https://codelabs.developers.google.com/next26/postgres-visual-memory-agent)
 **Date:** 2026-09-01 · **Status:** 🚧 In Progress
 
+> 🎬 **Thumbnail:** `screenshots/day10_thumbnail.png` (1280×720, staged for broadcast when video goes live)
+
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (Cloud SQL setup, pgvector schema, semantic retrieval, memory extraction, run + visualize). Use it while doing this lab — every command is copy-paste ready.
 
 > 🔗 **Starter repo:** `git clone https://github.com/GoogleCloudPlatform/devrel-demos.git` → `cd devrel-demos/codelabs/visual-memory-postgres-demo`

@@ -2,9 +2,11 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** Cloud SQL, Gemini, pgvector
 **Codelab:** [Visualize your AI assistant memory with Gemini and Cloud SQL pgvector](https://codelabs.developers.google.com/next26/postgres-visual-memory-agent)
-**Date:** 2026-09-01 · **Status:** 🚧 In Progress
+**Date:** 2026-09-02 · **Status:** ✅ Complete
 
-> 🎬 **Thumbnail:** `screenshots/day10_thumbnail.png` (1280×720, staged for broadcast when video goes live)
+> 🎬 **Watch the video:** [Day 10 — AI That REMEMBERS: Agent Memory with Gemini + pgvector](https://youtu.be/rUUOgjoWoq0)
+
+> 🎬 **Thumbnail:** `screenshots/day10_thumbnail.png`
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (Cloud SQL setup, pgvector schema, semantic retrieval, memory extraction, run + visualize). Use it while doing this lab — every command is copy-paste ready.
 

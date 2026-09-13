@@ -2,7 +2,11 @@
 
 **Series:** 30 Labs, 30 Days · **Topic:** GCP AI · **Product:** FastMCP, Cloud Run, GKE Autopilot, Workload Identity, Agent Registry
 **Codelab:** [Build, Secure, and Deploy an MCP Server on Google Cloud](https://codelabs.developers.google.com/secure-mcp-server-gcp)
-**Date:** 2026-09-07 · **Status:** 🚧 Draft (awaiting recording)
+**Date:** 2026-09-07 · **Status:** ✅ Complete
+
+> 🎬 **Watch the video:** [Day 11 — Secure MCP Server on GCP](https://youtu.be/myKbWJ5EefE)
+
+> 🎬 **Thumbnail:** `screenshots/day11_thumbnail.png`
 
 > 📘 **FOLLOW ALONG: [`LAB_MANUAL.md`](LAB_MANUAL.md)** — the complete step-by-step implementation manual (FastMCP server, 4 GCP tools, Cloud Run + GKE deploy, Agent Registry integration). Every command is copy-paste ready.
 
@@ -34,7 +38,7 @@ Then deploy it **twice** and register both in **Gemini Enterprise Agent Platform
 - **Day 11 (today):** turn MCP into a *hardened, catalogued, enterprise-grade* tool your agents can discover and trust
 
 ## 📺 Video
-Publication link to be added when the tutorial is recorded and uploaded.
+**Watch:** [Day 11 — Secure MCP Server on GCP (Cloud Run + GKE)](https://youtu.be/myKbWJ5EefE) · 57:37
 
 ## 🗂️ Project files
 - `LAB_MANUAL.md` — the full step-by-step manual

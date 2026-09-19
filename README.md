@@ -39,7 +39,7 @@
 | 9 | Vector Embeddings with AlloyDB AI | AlloyDB AI | ✅ | [▶️](https://youtu.be/E90byJEyVLs) |
 | 10 | Visualize AI Assistant Memory (pgvector) | Cloud SQL, Gemini | ✅ | [▶️](https://youtu.be/rUUOgjoWoq0) |
 | 11 | Build, Secure, and Deploy an MCP Server on GCP | FastMCP, Cloud Run, GKE, Workload Identity | ✅ | [▶️](https://youtu.be/myKbWJ5EefE) |
-| 12 | Evaluate RAG Systems with Vertex AI | Vertex AI | ⬜ | |
+| 12 | Evaluate RAG Systems with Vertex AI | Vertex AI | 🚧 | |
 | 13 | Fine-tune Gemini on Gemini Enterprise | Vertex AI | ⬜ | |
 | 14 | Fine-tune Open Source LLMs on GKE | GKE | ⬜ | |
 | 15 | Fine-tune an LLM using Cloud Run Jobs | Cloud Run Jobs | ⬜ | |
